@@ -1,10 +1,1 @@
- Volume in drive D is New Volume
- Volume Serial Number is 4E4D-7B31
-
- Directory of D:\OneDrive\Desktop\Myproject
-
-07/30/2021  02:07 PM    <DIR>          .
-07/30/2021  02:07 PM    <DIR>          ..
-07/30/2021  02:07 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  15,353,249,792 bytes free
+change 1
